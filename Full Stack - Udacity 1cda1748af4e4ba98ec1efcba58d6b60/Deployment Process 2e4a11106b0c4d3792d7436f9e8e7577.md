@@ -147,7 +147,7 @@
         
         ![Untitled](Deployment%20Process%202e4a11106b0c4d3792d7436f9e8e7577/Untitled%207.png)
         
-    - Unfortunately, you can’t connect your NodeJS app with the database up till this point, so we need to pay a visit to the **VPC Security Group (Thanks for the instructor May Hassan for point out this issue for us** 😊**).**
+    - Unfortunately, you can’t connect your NodeJS app with the database up till this point, so we need to pay a visit to the **VPC Security Group (Thanks for the instructor May Hassan for pointing out this issue for us** 😊**).**
         
         ![Untitled](Deployment%20Process%202e4a11106b0c4d3792d7436f9e8e7577/Untitled%208.png)
         
