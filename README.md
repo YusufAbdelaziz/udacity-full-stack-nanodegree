@@ -14,4 +14,4 @@ For a better-formatted version of the notes, you can click on this [Notion](http
 
 ## Contribution
 
-I've only taken notes for the second and third module. In case you wish to add more notes or you've found inaccurate details please submit a pull request for the updates or file an issue so I can fix it.
+I've only taken notes for the second and third module. In case you wish to add more notes or you've found inaccurate details please submit a pull request for the updates or file an issue so I can fix these details.
