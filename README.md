@@ -1,4 +1,4 @@
-# Full Stack - Udacity
+# Full Stack Nanodegree - Udacity
 
 ## Overview
 
